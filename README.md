@@ -4,8 +4,8 @@
 
 This is a complete full-stack e-commerce application built using the MERN stack (MongoDB, Express.js, React, Node.js). The project consists of three main components:
 
-- **Frontend**: Customer-facing React application for browsing products, managing cart, and placing orders
-- **Admin**: Admin panel for managing products, orders, and site administration
+- **Frontend**: Customer-facing React application for browsing products, managing cart, and placing orders [Frontend Main](https://admin-ehjx.onrender.com)
+- **Admin**: Admin panel for managing products, orders, and site administration [Frontend Admin](https://ecommerce-fullstack-web-application-2.onrender.com)
 - **Backend**: RESTful API server handling all business logic, database operations, and external integrations
 
 ## Tech Stack
